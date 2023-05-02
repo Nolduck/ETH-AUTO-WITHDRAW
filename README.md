@@ -11,4 +11,4 @@ Run either npm install or yarn install.
 
 Run node withdrawer.js to start the bot.
 
-TO GET THE WITHDRAWER BOT COME MP TELEGRAM t.me/Nolduck
+TO GET THE WITHDRAWER BOT COME MP TELEGRAM https://t.me/Nolduck
