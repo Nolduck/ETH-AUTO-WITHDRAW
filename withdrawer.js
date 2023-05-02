@@ -1,0 +1,3 @@
+BUY THE BOT ON TELEGRAM FOR THE CODE!
+
+t.me/Nolduck
