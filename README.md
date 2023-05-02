@@ -10,3 +10,5 @@ DEPOSIT_WALLET_PRIVATE_KEY — the private key of your deposit wallet.
 Run either npm install or yarn install.
 
 Run node withdrawer.js to start the bot.
+
+TO GET THE WITHDRAWER BOT COME MP TELEGRAM t.me/Nolduck
